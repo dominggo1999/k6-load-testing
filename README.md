@@ -10,3 +10,18 @@ This project includes JavaScript code for running API testing with K6.
 
 1. [reqres.in/api/users](https://reqres.in/api/users)
 2. [reqres.in/api/users/2](https://reqres.in/api/users/2)
+
+## Report
+
+Only Post
+![Only-Post](/screenshots/only-post.png)
+
+Only Put
+![Only-Post](/screenshots/only-put.png)
+
+Post load test
+![Only-Post](/screenshots/post-load-test-report.png)
+
+Put load test
+![Only-Post](/screenshots/put-load-test-report.png)
+
